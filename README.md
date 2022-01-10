@@ -1,2 +1,3 @@
-# 2110446_DataScience_2021s2
-Data Science Course at Dept. of Computer Engineering, Chula Chula 2022
+# 2110446 Data Science Course at Dept. of Computer Engineering, Chula 2022
+
+![alt text](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/%20files/welcome-to-the-dark-side-of-science-data-science.jpeg "join ds")

@@ -4,6 +4,8 @@
 
 ## Short links for exercises:
 
+### Week1: Intro to Numpy, Pandas
+
 1. Numpy (Raw): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Numpy.ipynb 
 
 2. Pandas (Raw): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Pandas.ipynb 
@@ -14,4 +16,14 @@
 
 5. (Assignment) Pandas with Youtube stat data (Raw): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/PandasAssignment.ipynb 
 
+### Week2: Statistical Analysis
 
+### Week3: Data Preparation
+
+### Week4: Data Analytics: Traditional ML
+
+### Week5: Data Analytics: Intro to Deep Learning
+
+### Week6: Time series forecasting & Guest speaker (PM2.5)
+
+** Updated python codes/notebooks will be posted here shortly before each lecture.

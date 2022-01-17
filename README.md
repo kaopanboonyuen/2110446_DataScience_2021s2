@@ -38,4 +38,6 @@
 
 ### Week6: Time series forecasting & Guest speaker (PM2.5)
 
+<!-- This is commented out. -->
+
 ** Updated python codes/notebooks will be posted here shortly before each lecture.

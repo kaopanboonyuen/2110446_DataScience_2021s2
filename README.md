@@ -18,15 +18,15 @@
 
 ### Week2: Data Preparation
 
-1. EDA: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Lab1_LoansDataSet_Loan.ipynb 
+1. EDA: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Lab1_DataPrep_Loan.ipynb 
 
 2. Impute Missing Value: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Lab2_ImputeMissingValue_Loan.ipynb 
 
 3. Split Train/Test: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Lab3_SplitTrainTest_Loan.ipynb 
 
-4. Outliers with Log: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Lab4_OutliersWithLog.ipynb
+4. Outliers with Log: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Lab4_OutliersWithLog_Boston.ipynb
 
-5. Outliers with Log (Titanic DataSet): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Lab5_OutliersWithLog_Titanic.ipynb
+5. Outliers with Log (Titanic DataSet): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Lab5_Outliers_Titanic.ipynb
 
 6. Assignment: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Assignment_Titanic_Survivors.ipynb 
 

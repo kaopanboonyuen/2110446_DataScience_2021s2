@@ -28,7 +28,7 @@
 
 5. Outliers with Log (Titanic DataSet): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Lab5_Outliers_Titanic.ipynb
 
-6. Assignment: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Assignment_Titanic_ToStudent.ipynb 
+6. Assignment: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Assignment_TitanicV2_ToStudent.ipynb 
 
 ### Week3: Statistical Analysis
 

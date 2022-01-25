@@ -34,7 +34,7 @@
 
 1. Basic Stat: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week3_stats/1_Basic_Statistics_Demo_toStudent.ipynb 
 
-2. Intermediate Stat: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week3_stats/2_Intermediate_Statistics_Demo_toStudent_v2.ipynb  
+2. Intermediate Stat: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week3_stats/2_Intermediate_Statistics_Demo_toStudent_v3.ipynb  
 
 3. HW Stat: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week3_stats/HW_Basic_Statistics_Homework_toStudent.ipynb  
 

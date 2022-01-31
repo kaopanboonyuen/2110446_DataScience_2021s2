@@ -56,7 +56,7 @@
 
 8. K-Means: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week4_ml/8_K-Means-Clustering-v2.ipynb
 
-9. Market-Basket Analysishttps://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week4_ml/9_Market_Basket_Intro-v2.ipynb
+9. Market-Basket Analysis: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week4_ml/9_Market_Basket_Intro-v2.ipynb
 
 10. Assignment: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/datasets/hw/week4/bank-additional-full.csv
 

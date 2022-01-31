@@ -58,6 +58,8 @@
 
 9. Market-Basket Analysishttps://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week4_ml/9_Market_Basket_Intro-v2.ipynb
 
+10. Assignment: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/datasets/hw/week4/bank-additional-full.csv
+
 ### Week5: Data Analytics: Intro to Deep Learning
 
 ### Week6: Time series forecasting & Guest speaker (PM2.5)

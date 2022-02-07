@@ -80,6 +80,7 @@ Assignment (Safe to eat or deadly poison?): https://github.com/kaopanboonyuen/Py
 
 4. UNET: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV4_Segmentation_UNet.ipynb
 
+![tf2](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/%20files/tf2.png)
 
 ### Week7: Time series forecasting & Guest speaker (PM2.5)
 

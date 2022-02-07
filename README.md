@@ -42,6 +42,8 @@
 
 Assignment: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/datasets/hw/week4/bank-additional-full.csv
 
+![Bank](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/%20files/bank-data.jpeg)
+
 ### Week5: Data Analytics: Traditional ML
 
 1. Decision Trees: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/1_Decision-Trees_Random-Forests-v3.ipynb

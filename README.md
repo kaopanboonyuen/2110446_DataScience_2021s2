@@ -87,3 +87,10 @@ Assignment (Safe to eat or deadly poison?): https://github.com/kaopanboonyuen/Py
 <!-- This is commented out. -->
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
+
+### Reference:
+
+1. https://www.kaggle.com/code
+2. https://www.tensorflow.org/tutorials
+3. https://github.com/topics/machine-learning
+4. https://archive.ics.uci.edu/ml/datasets.php

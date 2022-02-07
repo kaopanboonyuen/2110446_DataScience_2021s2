@@ -68,6 +68,13 @@ Assignment (Safe to eat or deadly poison?): https://github.com/kaopanboonyuen/Py
 
 ### Week6: Data Analytics: Intro to Deep Learning
 
+1. Image classification (Basic): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV1_Image_classification_(Basic).ipynb
+
+2. Image classification (Advanced): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV2_%5BEdited%5D_FlowerClassification_EfficientNet_with_pretrained_weight.ipynb
+
+3. YOLOV3: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV3_YOLOv3_colab_training_edited.ipynb
+
+4. UNET: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV4_Segmentation_UNet.ipynb
 
 
 ### Week7: Time series forecasting & Guest speaker (PM2.5)

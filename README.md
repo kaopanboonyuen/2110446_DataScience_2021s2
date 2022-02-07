@@ -44,8 +44,6 @@ Assignment (Stat): https://colab.research.google.com/github/kaopanboonyuen/21104
 
 Assignment: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/datasets/hw/week4/bank-additional-full.csv
 
-![Bank](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/%20files/bank-data.jpeg)
-
 ### Week5: Data Analytics: Traditional ML
 
 1. Decision Trees: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/1_Decision-Trees_Random-Forests-v3.ipynb
@@ -79,8 +77,6 @@ Assignment (Safe to eat or deadly poison?): https://github.com/kaopanboonyuen/Py
 3. YOLOV3: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV3_YOLOv3_colab_training_edited.ipynb
 
 4. UNET: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV4_Segmentation_UNet.ipynb
-
-![tf2](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/%20files/tf2.png)
 
 ### Week7: Time series forecasting & Guest speaker (PM2.5)
 

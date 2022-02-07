@@ -36,7 +36,7 @@ Assignment: https://colab.research.google.com/github/kaopanboonyuen/2110446_Data
 
 2. Intermediate Stat: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week3_stats/2_Intermediate_Statistics_Demo_toStudent_v4.ipynb  
 
-3. Assignment (Stat): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week3_stats/HW_Basic_Statistics_Homework_toStudent.ipynb  
+Assignment (Stat): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week3_stats/HW_Basic_Statistics_Homework_toStudent.ipynb  
 
 ![](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/%20files/stat-data.gif)
 

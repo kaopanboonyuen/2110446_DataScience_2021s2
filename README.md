@@ -64,7 +64,7 @@ Assignment: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/mai
 
 Assignment (Safe to eat or deadly poison?): https://github.com/kaopanboonyuen/Python-Data-Science/raw/master/Dataset/hed2020_dataset.csv
 
-![Mushroom](https://kennettmushrooms.com/wp-content/uploads/2017/05/fungi-funnys-570x285.jpg)
+![Mushroom](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/%20files/hed.jpeg)
 
 ### Week6: Data Analytics: Intro to Deep Learning
 

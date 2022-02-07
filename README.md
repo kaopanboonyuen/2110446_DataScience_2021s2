@@ -14,7 +14,7 @@
 
 4. (Advanced) Pandas with Youtube stat data: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Advanced_Pandas_(Data_Set_Trending_YouTube_Video_Statistics).ipynb 
 
-5. Assignment (P)andas with Youtube stat data): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/PandasAssignment.ipynb 
+Assignment (Pandas with Youtube stat data): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/PandasAssignment.ipynb 
 
 ### Week2: Data Preparation
 
@@ -28,7 +28,7 @@
 
 5. Outliers with Log (Titanic DataSet): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Lab5_Outliers_Titanic.ipynb
 
-6. Assignment: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Assignment_TitanicV2_ToStudent.ipynb 
+Assignment: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week2_dataprep/Assignment_TitanicV2_ToStudent.ipynb 
 
 ### Week3: Statistical Analysis
 

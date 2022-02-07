@@ -38,31 +38,39 @@
 
 3. Assignment (Stat): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week3_stats/HW_Basic_Statistics_Homework_toStudent.ipynb  
 
-### Week4: Data Analytics: Traditional ML
+### Week4: Regression
 
-1. Decision Trees: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week4_ml/1_Decision-Trees_Random-Forests-v3.ipynb
+Assignment: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/datasets/hw/week4/bank-additional-full.csv
 
-2. Linear Regression: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week4_ml/2_Linear-Regression-v2.ipynb
+### Week5: Data Analytics: Traditional ML
 
-3. Logistic Regression: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week4_ml/3_Logistic-Regression-v2.ipynb
+1. Decision Trees: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/1_Decision-Trees_Random-Forests-v3.ipynb
 
-4. Neural Network: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week4_ml/4_Neural-Network-v3.ipynb
+2. Linear Regression: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/2_Linear-Regression-v2.ipynb
 
-5. K Nearest Neighbors: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week4_ml/5_K_Nearest_Neighbors-v2.ipynb
+3. Logistic Regression: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/3_Logistic-Regression-v2.ipynb
 
-6. SVM: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week4_ml/6_Support_Vector_Machine-v2.ipynb
+4. Neural Network: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/4_Neural-Network-v3.ipynb
 
-7. Save and Load Model: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week4_ml/7_Save_Load_Model-v2.ipynb
+5. K Nearest Neighbors: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/5_K_Nearest_Neighbors-v2.ipynb
 
-8. K-Means: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week4_ml/8_K-Means-Clustering-v2.ipynb
+6. SVM: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/6_Support_Vector_Machine-v2.ipynb
 
-9. Market-Basket Analysis: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week4_ml/9_Market_Basket_Intro-v2.ipynb
+7. Save and Load Model: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/7_Save_Load_Model-v2.ipynb
 
-10. Assignment: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/datasets/hw/week4/bank-additional-full.csv
+8. K-Means: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/8_K-Means-Clustering-v2.ipynb
 
-### Week5: Data Analytics: Intro to Deep Learning
+9. Market-Basket Analysis: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/9_Market_Basket_Intro-v2.ipynb
 
-### Week6: Time series forecasting & Guest speaker (PM2.5)
+Assignment (Safe to eat or deadly poison?): https://github.com/kaopanboonyuen/Python-Data-Science/raw/master/Dataset/hed2020_dataset.csv
+
+![Mushroom](https://kennettmushrooms.com/wp-content/uploads/2017/05/fungi-funnys-570x285.jpg)
+
+### Week6: Data Analytics: Intro to Deep Learning
+
+
+
+### Week7: Time series forecasting & Guest speaker (PM2.5)
 
 <!-- This is commented out. -->
 

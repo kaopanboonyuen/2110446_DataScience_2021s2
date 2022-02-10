@@ -44,7 +44,7 @@ Assignment (Stat): https://colab.research.google.com/github/kaopanboonyuen/21104
 
 Assignment: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/datasets/hw/week4/bank-additional-full.csv
 
-### Week5: Data Analytics: Traditional ML
+### Week5: Traditional ML
 
 1. Decision Trees: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/1_Decision-Trees_Random-Forests-v3.ipynb
 
@@ -70,15 +70,17 @@ Assignment (Safe to eat or deadly poison?): https://github.com/kaopanboonyuen/Py
 
 ### Week6: Data Analytics: Intro to Deep Learning
 
-1. Image classification (Basic): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV1_Image_classification_(Basic).ipynb
+1. Image classification (basic, flower classification): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV1_Image_classification_(Basic).ipynb
 
-2. Image classification (Advanced): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV2_%5BEdited%5D_FlowerClassification_EfficientNet_with_pretrained_weight.ipynb
+2. Image classification (advanced, flower classification): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV2_%5BEdited%5D_FlowerClassification_EfficientNet_with_pretrained_weight.ipynb
 
-3. YOLOV3: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV3_YOLOv3_colab_training_edited.ipynb
+3. UNET (The Oxford-IIIT pet dataset): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV4_Segmentation_UNet.ipynb
 
-4. UNET: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV4_Segmentation_UNet.ipynb
+4. LSTM (Stock Price Prediction):
 
-### Week7: Time series forecasting & Guest speaker (PM2.5)
+5. SARIMAX ():
+
+Assignment (Fashion MNIST): 
 
 <!-- This is commented out. -->
 

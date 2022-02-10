@@ -70,19 +70,17 @@ Assignment (Safe to eat or deadly poison?): https://github.com/kaopanboonyuen/Py
 
 ### Week6: Data Analytics: Intro to Deep Learning
 
-1. Image classification (basic, flower classification): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV1_Image_classification_(Basic).ipynb
+1. Image classification (basic): flower classification https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV1_Image_classification_(Basic).ipynb
 
-2. Image classification (advanced, flower classification): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV2_%5BEdited%5D_FlowerClassification_EfficientNet_with_pretrained_weight.ipynb
+2. Image classification (advanced): flower classification https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV2_%5BEdited%5D_FlowerClassification_EfficientNet_with_pretrained_weight.ipynb
 
-3. UNET (The Oxford-IIIT pet dataset): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV4_Segmentation_UNet.ipynb
+3. Semantic Segmentation (UNET): The Oxford-IIIT pet dataset https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV4_Segmentation_UNet.ipynb
 
-4. LSTM (Stock Price Prediction):
+4. LSTM: Stock price prediction
 
-5. SARIMAX ():
+5. SARIMAX: PM2.5 forecasting
 
 Assignment (Fashion MNIST): 
-
-<!-- This is commented out. -->
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 

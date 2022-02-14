@@ -68,7 +68,7 @@ Assignment (Safe to eat or deadly poison?): https://github.com/kaopanboonyuen/Py
 
 ![Mushroom](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/%20files/hed.jpeg)
 
-### Week6: Data Analytics: Intro to Deep Learning
+### Week6: Intro to Deep Learning
 
 1. Image classification (basic): flower classification https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV1_Image_classification_(Basic).ipynb
 

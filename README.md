@@ -76,11 +76,11 @@ Assignment (Safe to eat or deadly poison?): https://github.com/kaopanboonyuen/Py
 
 3. Semantic Segmentation (UNET): The Oxford-IIIT pet dataset https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl/CV4_Segmentation_UNet.ipynb
 
-4. LSTM: Stock price prediction
+4. LSTM: Stock price prediction https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl_2/StockPricePredication_LSTM_v4.ipynb
 
-5. SARIMAX: PM2.5 forecasting
+5. SARIMAX: PM2.5 forecasting https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl_2/SARIMAX_v2.ipynb
 
-Assignment (Fashion MNIST): 
+Assignment (Fashion MNIST): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl_2/hw/(to_Student)_Assignment_FashinMNIST_v2.ipynb
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 

@@ -82,6 +82,9 @@ Assignment (Safe to eat or deadly poison?): https://github.com/kaopanboonyuen/Py
 
 Assignment (Fashion MNIST): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl_2/hw/(to_Student)_Assignment_FashinMNIST_v2.ipynb
 
+
+![Scrape](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/files/scrape.jpeg)
+
 ### Week7: Data Extraction
 
 1. Basic Webpage Scraping: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week7_dataextraction/1-BasicWebpageScraping.ipynb

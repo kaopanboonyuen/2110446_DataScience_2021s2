@@ -38,6 +38,8 @@ Assignment: https://colab.research.google.com/github/kaopanboonyuen/2110446_Data
 
 Assignment (Stat): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week3_stats/HW_Basic_Statistics_Homework_toStudent.ipynb  
 
+![](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/%20files/stat-data.gif)
+
 ### Week4: Regression
 
 Assignment: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/datasets/hw/week4/bank-additional-full.csv

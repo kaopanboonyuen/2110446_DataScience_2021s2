@@ -82,6 +82,20 @@ Assignment (Safe to eat or deadly poison?): https://github.com/kaopanboonyuen/Py
 
 Assignment (Fashion MNIST): https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week6_dl_2/hw/(to_Student)_Assignment_FashinMNIST_v2.ipynb
 
+### Week7: Data Extraction
+
+1. Basic Webpage Scraping: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week7_dataextraction/1-BasicWebpageScraping.ipynb
+
+2. Wikipedia Page Data Extraction: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week7_dataextraction/2-WikipediaPageDataExtraction.ipynb
+
+3. REST API Data Extraction: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week7_dataextraction/3-REST-API-Data-Extraction.ipynb
+
+4. Twitter Data Extraction: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week7_dataextraction/4-TwitterDataExtraction.ipynb
+
+5. Selenium: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week7_dataextraction/5-Selenium.ipynb
+
+Assignment: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week7_dataextraction/Assignment.ipynb
+
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
 ### Reference:

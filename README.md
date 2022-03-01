@@ -99,6 +99,10 @@ Assignment (Fashion MNIST): https://colab.research.google.com/github/kaopanboony
 
 Assignment: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week7_dataextraction/Assignment.ipynb
 
+### Week8: Data Ingestion
+
+1. All codes and scripts is here: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/tree/main/code/week8_dataingestion
+
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
 ### Reference:

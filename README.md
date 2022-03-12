@@ -103,6 +103,16 @@ Assignment: https://colab.research.google.com/github/kaopanboonyuen/2110446_Data
 
 1. All codes and scripts is here: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/tree/main/code/week8_dataingestion
 
+### Week9: Spark
+
+1. Basic Spark: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week9_spark/1-BasicSpark.ipynb
+2. Spark SQL: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week9_spark/2-SparkSQL.ipynb
+3. Spark ML: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week9_spark/3-SparkML.ipynb
+
+Data Set:
+9.1 Bank data set: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week9_spark/bank-additional-full.csv
+9.2 Star war data set: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week9_spark/star-wars.txt
+
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
 ### Reference:

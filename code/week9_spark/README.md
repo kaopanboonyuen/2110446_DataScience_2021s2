@@ -11,7 +11,7 @@
 3. Spark ML: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week9_spark/3-SparkML.ipynb
 
 Data Set:
-9.1 Bank data set: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week9_spark/bank-additional-full.csv
-9.2 Star war data set: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week9_spark/star-wars.txt
+1. Bank data set: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week9_spark/bank-additional-full.csv
+2. Star war data set: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week9_spark/star-wars.txt
 
 ![](https://databricks.com/wp-content/uploads/2018/12/PySpark-1024x164.png)

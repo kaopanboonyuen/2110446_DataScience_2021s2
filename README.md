@@ -111,8 +111,8 @@ Assignment: https://colab.research.google.com/github/kaopanboonyuen/2110446_Data
 
 Data Set:
 
-9.1 Bank data set: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week9_spark/bank-additional-full.csv
-9.2 Star war data set: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week9_spark/star-wars.txt
+1. Bank data set: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week9_spark/bank-additional-full.csv
+2. Star war data set: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week9_spark/star-wars.txt
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 

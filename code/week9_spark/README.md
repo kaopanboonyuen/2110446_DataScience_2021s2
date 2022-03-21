@@ -6,9 +6,9 @@
 
 ### Week9: Spark
 
-1. Basic Spark: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week9_spark/1-BasicSpark.ipynb
-2. Spark SQL: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week9_spark/2-SparkSQL.ipynb
-3. Spark ML: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week9_spark/3-SparkML.ipynb
+1. Basic Spark: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week9_spark/1-BasicSpark.ipynb)
+2. Spark SQL: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week9_spark/2-SparkSQL.ipynb)
+3. Spark ML: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week9_spark/3-SparkML.ipynb)
 
 Data Set:
 1. Bank data set: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week9_spark/bank-additional-full.csv

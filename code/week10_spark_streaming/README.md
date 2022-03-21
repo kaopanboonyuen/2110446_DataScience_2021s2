@@ -6,11 +6,11 @@
 
 ### Week10: Spark Streaming
 
-1. Basic Spark Streaming: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week10_spark_streaming/1_BasicSparkStreaming.ipynb
-2. Spark Streaming Window Operations: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week10_spark_streaming/2_SparkStreamingWindowOperations.ipynb
-3. Basic Structured Streaming: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week10_spark_streaming/3_BasicStructuredStreaming.ipynb
-4. Structured Streaming Window Operations: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week10_spark_streaming/4_StructuredStreamingWindowOperations.ipynb
-5. Structured Streaming and Kafka: https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week10_spark_streaming/5_StructuredStreamingandKafka.ipynb
+1. Basic Spark Streaming: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week10_spark_streaming/1_BasicSparkStreaming.ipynb)
+2. Spark Streaming Window Operations: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week10_spark_streaming/2_SparkStreamingWindowOperations.ipynb)
+3. Basic Structured Streaming: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week10_spark_streaming/3_BasicStructuredStreaming.ipynb)
+4. Structured Streaming Window Operations: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week10_spark_streaming/4_StructuredStreamingWindowOperations.ipynb)
+5. Structured Streaming and Kafka: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week10_spark_streaming/5_StructuredStreamingandKafka.ipynb)
 
 Data Set:
 

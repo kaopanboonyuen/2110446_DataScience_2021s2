@@ -14,7 +14,7 @@
 
 Data Set:
 
-Star Wars: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week10_spark_streaming/star-wars.txt
+Star Wars: [![Open In GitHub](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week10_spark_streaming/star-wars.txt)
 
 
 ![](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/img/spark-streaming.jpeg)

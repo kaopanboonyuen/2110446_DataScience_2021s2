@@ -42,7 +42,7 @@ Assignment (Stat): [![Open In Colab](https://raw.githubusercontent.com/kaopanboo
 
 ### Week4: Regression
 
-Assignment: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/datasets/hw/week4/bank-additional-full.csv
+Assignment: [![Open In NB](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/datasets/hw/week4/bank-additional-full.csv)
 
 ### Week5: Traditional ML
 

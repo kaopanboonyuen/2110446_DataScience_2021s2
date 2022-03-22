@@ -101,7 +101,18 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2
 
 ### Week8: Data Ingestion
 
-1. All codes and scripts is here: [![Open In NB](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-nb-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/tree/main/code/week8_dataingestion)
+All codes and scripts is here: [![Open In NB](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-nb-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/tree/main/code/week8_dataingestion)
+
+1. Kafka Sample Producer: [![Open In NB](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-nb-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week8_dataingestion/Kafka%20Sample%20Producer.ipynb)
+2. Kafka Sample Consumer: [![Open In NB](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-nb-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week8_dataingestion/Kafka%20Sample%20Consumer.ipynb)
+3. Kafka Sample Producer with AVRO: [![Open In NB](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-nb-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week8_dataingestion/Kafka%20Sample%20Producer%20with%20AVRO.ipynb)
+4. Kafka Sample Consumer with AVRO: [![Open In NB](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-nb-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week8_dataingestion/Kafka%20Sample%20Consumer%20with%20AVRO.ipynb)
+5. Sensor FileWriter Consumer: [![Open In NB](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-nb-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week8_dataingestion/Sensor%20FileWriter%20Consumer.ipynb)
+6. Sensor Counter Consumer: [![Open In NB](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-nb-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week8_dataingestion/Sensor%20Counter%20Consumer.ipynb)
+
+Data Set:
+
+Sample (ASVC): [![Open In GitHub](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week8_dataingestion/sample.avsc)
 
 ### Week9: Spark
 

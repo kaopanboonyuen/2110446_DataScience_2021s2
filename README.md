@@ -42,7 +42,7 @@ Assignment (Stat): [![Open In Colab](https://raw.githubusercontent.com/kaopanboo
 
 ### Week4: Regression
 
-Assignment: [![Open In NB](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/datasets/hw/week4/bank-additional-full.csv)
+Assignment: [![Open In GitHub](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/datasets/hw/week4/bank-additional-full.csv)
 
 ### Week5: Traditional ML
 
@@ -64,7 +64,7 @@ Assignment: [![Open In NB](https://raw.githubusercontent.com/kaopanboonyuen/2110
 
 9. Market-Basket Analysis: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/9_Market_Basket_Intro-v2.ipynb)
 
-Assignment (Safe to eat or deadly poison?): https://github.com/kaopanboonyuen/Python-Data-Science/raw/master/Dataset/hed2020_dataset.csv
+Assignment (Safe to eat or deadly poison?): [![Open In GitHub](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-badge.svg)](https://github.com/kaopanboonyuen/Python-Data-Science/raw/master/Dataset/hed2020_dataset.csv)
 
 ![Mushroom](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/%20files/hed.jpeg)
 
@@ -111,8 +111,8 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2
 
 Data Set:
 
-1. Bank data set: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week9_spark/bank-additional-full.csv
-2. Star war data set: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week9_spark/star-wars.txt
+1. Bank data set: [![Open In GitHub](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week9_spark/bank-additional-full.csv)
+2. Star war data set: [![Open In GitHub](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week9_spark/star-wars.txt)
 
 ### Week10: Spark Streaming
 
@@ -124,7 +124,7 @@ Data Set:
 
 Data Set:
 
-Star Wars: https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week10_spark_streaming/star-wars.txt
+Star Wars: [![Open In GitHub](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week10_spark_streaming/star-wars.txt)
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 

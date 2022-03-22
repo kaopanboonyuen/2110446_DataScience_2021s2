@@ -101,7 +101,7 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2
 
 ### Week8: Data Ingestion
 
-1. All codes and scripts is here: [![Open In NB](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-nb-badge.svg)(https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/tree/main/code/week8_dataingestion)
+1. All codes and scripts is here: [![Open In NB](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-nb-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/tree/main/code/week8_dataingestion)
 
 ### Week9: Spark
 

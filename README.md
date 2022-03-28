@@ -143,7 +143,7 @@ Star Wars: [![Open In GitHub](https://raw.githubusercontent.com/kaopanboonyuen/2
 
 All code is here: [![Open In GitHub](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/tree/main/code/week11_airflow)
 
-Anyway, you can download all source codes for week11_airflow through 
+Anyway, you can download all source codes for week11_airflow through this [link](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week11_airflow/week11_airflow.zip?raw=true).
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 

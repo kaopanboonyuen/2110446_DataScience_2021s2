@@ -103,7 +103,7 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2
 
 ### Week8: Data Ingestion
 
-All codes and scripts is here: [![Open In NB](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-nb-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/tree/main/code/week8_dataingestion)
+All codes and scripts are here: [![Open In NB](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-nb-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/tree/main/code/week8_dataingestion)
 
 1. Kafka Sample Producer: [![Open In NB](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-nb-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week8_dataingestion/Kafka%20Sample%20Producer.ipynb)
 2. Kafka Sample Consumer: [![Open In NB](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-nb-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week8_dataingestion/Kafka%20Sample%20Consumer.ipynb)
@@ -138,6 +138,12 @@ Data Set:
 Data Set:
 
 Star Wars: [![Open In GitHub](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week10_spark_streaming/star-wars.txt)
+
+### Week11: Airflow
+
+All code is here: [![Open In GitHub](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/tree/main/code/week11_airflow)
+
+Anyway, you can download all source codes for week11_airflow through 
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 

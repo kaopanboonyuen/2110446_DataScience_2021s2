@@ -10,6 +10,6 @@
 
 All code is here: [this link](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/tree/main/code/week11_airflow)
 
-Anyway, you can download all source codes for week11_airflow through [this link (week11_airflow.zip)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week11_airflow/week11_airflow.zip?raw=true).
+Anyway, you can download all source codes for week11_airflow_and_fastapi through [this link (week11_airflow_and_fastapi.zip)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week11_airflow/week11_airflow_v2.zip).
 
 ![](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/files/airflow.png)

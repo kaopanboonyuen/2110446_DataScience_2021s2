@@ -139,18 +139,36 @@ All relevant code and scripts are available [here](https://github.com/kaopanboon
 
 Download all source code [here (week8_dataingestion.zip)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week8_dataingestion/week8_dataingestion.zip?raw=true).
 
-### Week 9: Spark
+### Week9: Spark
 
-1. **Basic Spark:** Get started with Spark for big data processing.  
-   [![Open In Colab](https://raw.githubusercontent.com/ka
+1. Basic Spark: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week9_spark/1-BasicSpark.ipynb)
+2. Spark SQL: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week9_spark/2-SparkSQL.ipynb)
+3. Spark ML: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week9_spark/3-SparkML.ipynb)
 
-opanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week9_spark/Basic%20Spark.ipynb)
+Data Set:
 
-2. **Spark on AWS EMR:** Set up and run Spark jobs on AWS EMR.  
-   [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week9_spark/Spark%20on%20AWS%20EMR.ipynb)
+1. Bank: [![Open In GitHub](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week9_spark/bank-additional-full.csv)
+2. Star Wars: [![Open In GitHub](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week9_spark/star-wars.txt)
 
-3. **Kafka Streaming with Spark:** Integrate Kafka and Spark for real-time data processing.  
-   [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week9_spark/Spark%20Kafka%20Streaming.ipynb)
+### Week10: Spark Streaming
+
+1. Basic Spark Streaming: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week10_spark_streaming/1_BasicSparkStreaming.ipynb)
+2. Spark Streaming Window Operations: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week10_spark_streaming/2_SparkStreamingWindowOperations.ipynb)
+3. Basic Structured Streaming: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week10_spark_streaming/3_BasicStructuredStreaming.ipynb)
+4. Structured Streaming Window Operations: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week10_spark_streaming/4_StructuredStreamingWindowOperations.ipynb)
+5. Structured Streaming and Kafka: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week10_spark_streaming/5_StructuredStreamingandKafka.ipynb)
+
+Data Set:
+
+Star Wars: [![Open In GitHub](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/github-badge.svg)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week10_spark_streaming/star-wars.txt)
+
+### Week11: Airflow
+
+All code is here: [this link](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/tree/main/code/week11_airflow)
+
+Anyway, you can download all source codes for week11_airflow_and_fastapi through [this link (week11_airflow_and_fastapi.zip)](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/raw/main/code/week11_airflow/week11_airflow_v2.zip).
+
+** Updated python codes/notebooks will be posted here shortly before each lecture.
 
 ## 🛠 Environment Setup
 
